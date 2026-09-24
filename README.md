@@ -6,9 +6,7 @@
 
 ```js
 const mariya = {
-  education: "B.Tech AI & Data Science @ VIIT Pune",
   building: ["AI", "UI", "cool things"],
-  code: ["Python", "C++", "JavaScript", "Dart"],
   interests: ["AI/ML", "LLMs", "UI/UX", "Full-Stack"],
   languages: ["English", "Hindi", "Marathi", "Urdu", "Turkish (Learning)"],
   debugging: "probably",
