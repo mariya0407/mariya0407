@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm **Mariya Shaikh**
+# 👋 Hello, I'm **Mariya**
 
-### `AI & Data Science` · `AI/ML` · `LLMs` · `Full-Stack`
+### `AI × Code × Design` · `building things people love to use.`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI+that+solves+real+problems+%F0%9F%A4%96;Turning+ideas+into+working+products+%F0%9F%9A%80;Exploring+LLMs%2C+NLP+%26+Intelligent+Systems+%F0%9F%A7%A0;Designing+technology+people+actually+want+to+use+%F0%9F%8E%A8" />
 
