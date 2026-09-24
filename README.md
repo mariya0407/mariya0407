@@ -51,8 +51,6 @@ I enjoy taking an idea from:
 🎓 **VIIT Pune**
 B.Tech — AI & Data Science
 
-📊 **CGPA:** 8.6
-
 📍 **Pune, India**
 
 🔬 **Researcher**
@@ -164,7 +162,7 @@ Human-Centered AI
 
 ---
 
-# 💎 Featured Projects
+# Featured Projects
 
 <table>
 <tr>
@@ -261,60 +259,6 @@ A connected smart-collar concept designed around **pet safety and monitoring**.
 
 ---
 
-# 💼 Experience
-
-<table>
-<tr>
-<td>
-
-### 🤖 Cyfosys
-
-**AI Intern · July 2026 – Present**
-
-Built AI-powered **Voice Personal & Booking Assistants for doctors**, working with LLMs, APIs, Google Calendar and Google Sheets.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🧠 Technokeens LLP
-
-**AI / Full-Stack Developer · Jan 2026 – May 2026**
-
-Built **Engagelabs.ai**, a multi-agent AI marketing platform covering strategy, content, ads and design.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 💻 Eagle Security
-
-**Full-Stack Developer Intern · Dec 2025 – Apr 2026**
-
-Worked on a bilingual **Hindi/English NLP chatbot** and the Flutter-based **Kamgar Sahayak** labour welfare application.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ⚙️ VNG Technologies
-
-**Software Development Intern · Jul 2025 – Nov 2025**
-
-Built a white-labelled **multi-tenant LMS** with RBAC, tenant isolation and assessment-management functionality.
-
-</td>
-</tr>
-</table>
-
----
-
 # 🔬 Research Corner
 
 <div align="center">
@@ -353,99 +297,6 @@ Applied **multilingual transformer-based transfer learning** for POS tagging in 
 
 </td>
 
-<td align="center">
-
-### 📚
-
-**Published Research**
-
-</td>
-</tr>
-</table>
-
-**Presented at:** ICRACE 2026
-**Published in:** Cureus Journal, Springer Nature
-
----
-
-# 🏆 A Few Things I've Done
-
-<table>
-<tr>
-<td align="center">
-
-🥈
-
-### 2nd Place
-
-Viz-a-Thon
-**VIT Pune**
-
-</td>
-
-<td align="center">
-
-🥈
-
-### 2nd Place
-
-Build-a-Thon
-**PCCoE Pune**
-
-</td>
-
-<td align="center">
-
-🥈
-
-### Runner-Up
-
-UI/UX Designathon
-**IIT Roorkee**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-🤖
-
-### Participant
-
-India AI Impact
-**Buildathon 2026**
-
-</td>
-
-<td align="center">
-
-🎨
-
-### Core Design Team
-
-Viz-a-Thon
-**3.0**
-
-</td>
-
-<td align="center">
-
-📊
-
-### Event Coordinator
-
-Data Science
-**Symposium 2025**
-
-</td>
-
-</tr>
-</table>
-
----
 
 # 📊 GitHub Activity
 
