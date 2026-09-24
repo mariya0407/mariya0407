@@ -2,7 +2,14 @@
 
 # 👋 Hello, I'm **Mariya**
 
-### `<building AI="yes" UI="yes" bugs="probably" coffee="optional" />`
+const mariya = {
+  building: ["AI", "UI", "cool things"],
+  debugging: "probably",
+  coffee: "needed, black!",
+  interests: ["AI/ML", "LLMs", "UI/UX", "Full-Stack"],
+  languages: ["English", "Hindi", "Marathi", "Urdu", "Turkish (Learning)"],
+  motto: "build. break. learn. repeat."
+};
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;Building+AI+that+solves+real+problems+%F0%9F%A4%96;Designing+interfaces+people+actually+enjoy+%F0%9F%8E%A8;Learning%2C+building%2C+breaking%2C+rebuilding+%E2%9C%A8" />
 
