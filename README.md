@@ -78,7 +78,7 @@ Currently exploring **LLMs, NLP, AI agents, voice assistants and human-centered 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,fastapi,django,tensorflow,pytorch,mongodb,postgres,mysql,git,github,figma,tableau" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,fastapi,django,tensorflow,pytorch,mongodb,postgres,mysql,git,github,figma" />
 
 </p>
 
@@ -176,9 +176,11 @@ A pet-care platform built around a connected collar concept for safety and monit
 
 <div align="center">
 
-`if (idea) { 
+```js
+if (idea) { 
   build(idea); 
-  }`
+  }
+```
 
 <br>
 
