@@ -2,14 +2,21 @@
 
 # 👋 Hello, I'm **Mariya**
 
+</div>
+
+```js
 const mariya = {
+  education: "B.Tech AI & Data Science @ VIIT Pune",
   building: ["AI", "UI", "cool things"],
-  debugging: "probably",
-  coffee: "needed, black!",
+  code: ["Python", "C++", "JavaScript", "Dart"],
   interests: ["AI/ML", "LLMs", "UI/UX", "Full-Stack"],
   languages: ["English", "Hindi", "Marathi", "Urdu", "Turkish (Learning)"],
-  motto: "build. break. learn. repeat."
+  debugging: "probably",
+  coffee: "needed, black!"
 };
+```
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;Building+AI+that+solves+real+problems+%F0%9F%A4%96;Designing+interfaces+people+actually+enjoy+%F0%9F%8E%A8;Learning%2C+building%2C+breaking%2C+rebuilding+%E2%9C%A8" />
 
@@ -18,9 +25,11 @@ const mariya = {
 <a href="https://github.com/mariya0407">
 <img src="https://img.shields.io/badge/GitHub-mariya0407-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/mariya-shaikh-29a04m/">
 <img src="https://img.shields.io/badge/LinkedIn-Mariya%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:mariyashaikh0407@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -53,10 +62,10 @@ Currently exploring **LLMs, NLP, AI agents, voice assistants and human-centered 
 
 ### currently
 
-🤖 building with AI
-🎨 designing interfaces
-💻 writing code
-🧪 breaking things
+🤖 building with AI  
+🎨 designing interfaces  
+💻 writing code  
+🧪 breaking things  
 ☕ probably debugging
 
 </td>
@@ -75,7 +84,7 @@ Currently exploring **LLMs, NLP, AI agents, voice assistants and human-centered 
 
 <div align="center">
 
-`AI/ML`   `LLMs`   `NLP`   `Full-Stack`   `UI/UX`   `Data`
+`AI/ML` &nbsp; `LLMs` &nbsp; `NLP` &nbsp; `Full-Stack` &nbsp; `UI/UX` &nbsp; `Data`
 
 </div>
 
@@ -159,7 +168,7 @@ A pet-care platform built around a connected collar concept for safety and monit
 
 <p align="center">
 
-`🧠 LLMs`   `🗣️ Voice AI`   `🔗 RAG`   `🤖 AI Agents`   `🌐 NLP`   `🎨 UI/UX`
+`🧠 LLMs` &nbsp; `🗣️ Voice AI` &nbsp; `🔗 RAG` &nbsp; `🤖 AI Agents` &nbsp; `🌐 NLP` &nbsp; `🎨 UI/UX`
 
 </p>
 
