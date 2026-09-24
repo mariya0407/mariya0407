@@ -1,211 +1,71 @@
 <div align="center">
 
-# 👋 Hey, I'm **Mariya Shaikh**
+# Hi, I'm Mariya 👋
 
-### `AI & Data Science` · `AI/ML` · `LLMs` · `Full-Stack`
+### AI & Data Science • AI/ML • LLMs • Full-Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI+that+solves+real+problems+%F0%9F%A4%96;Turning+ideas+into+working+products+%F0%9F%9A%80;Exploring+LLMs%2C+NLP+%26+Intelligent+Systems+%F0%9F%A7%A0;Designing+technology+people+actually+want+to+use+%F0%9F%8E%A8" />
+Building intelligent applications that solve real-world problems.
 
 <br>
 
 <a href="https://github.com/mariya0407">
-<img src="https://img.shields.io/badge/GitHub-mariya0407-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-mariya0407-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/mariya-shaikh-29a04m/">
-<img src="https://img.shields.io/badge/LinkedIn-Mariya%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mariyashaikh0407@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=mariya0407&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="60%">
+## 🧠 About Me
 
-## 🧠 Who Am I?
+I'm an **AI & Data Science undergraduate at VIIT, Pune**, interested in building practical AI products across **Machine Learning, LLMs, NLP and Full-Stack Development**.
 
-I'm an **AI & Data Science undergraduate at VIIT, Pune**, interested in building intelligent systems that move beyond experiments and actually solve problems.
-
-My work sits at the intersection of:
-
-**Artificial Intelligence × Software × Data × Design**
-
-I enjoy taking an idea from:
-
-`💡 Concept → 🧠 AI → 💻 Product → 🚀 Deployment`
-
-</td>
-
-<td width="40%">
-
-### ⚡ Quick Facts
-
-🎓 **VIIT Pune**
-B.Tech — AI & Data Science
-
-📍 **Pune, India**
-
-🔬 **Researcher**
-
-🤖 **AI Builder**
-
-🎨 **UI/UX Enthusiast**
-
-</td>
-</tr>
-</table>
+I enjoy turning ideas into working products — from AI assistants and multilingual applications to intelligent web platforms.
 
 ---
 
-# 🚀 What I Build
+## 🛠️ Tech Stack
 
-<table>
-<tr>
+<p align="center">
 
-<td width="25%" align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,fastapi,django,tensorflow,pytorch,mongodb,postgres,mysql,git,github,figma" />
 
-### 🤖
-
-### AI / ML
-
-Computer Vision
-NLP
-Deep Learning
-Transfer Learning
-LLMs
-
-</td>
-
-<td width="25%" align="center">
-
-### 🧠
-
-### GenAI
-
-RAG
-AI Agents
-Prompt Engineering
-Voice Assistants
-LLM Applications
-
-</td>
-
-<td width="25%" align="center">
-
-### 💻
-
-### Full-Stack
-
-React
-TypeScript
-FastAPI
-Django
-REST APIs
-
-</td>
-
-<td width="25%" align="center">
-
-### 🎨
-
-### Design
-
-UI/UX
-Figma
-Product Design
-Human-Centered AI
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🛠️ My Tech Universe
-
-### 👩🏻‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" />
-</p>
-
-### 🧠 AI / Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### 🌐 Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,django,nodejs" />
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github" />
-<img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%">
 
-## 🌾 AgriAI
+### ✨ Simplr
 
-### Autonomous Deep Learning for Crop & Livestock Management
+**AI Text Simplification Tool**
 
-A multi-diagnostic AI platform that analyzes agricultural and livestock images.
+Chrome extension that simplifies complex webpage content using LLMs.
 
-**What it does**
-
-🌱 Plant disease detection
-🌍 Soil classification
-🐄 Livestock breed identification
-📄 Automated remedy reports
-
-**Built with**
-
-`MobileNetV2` `Transfer Learning` `Python` `Streamlit`
+`React` `TypeScript` `FastAPI` `LangChain`
 
 </td>
 
 <td width="50%">
 
-## ✨ Simplr
+### 🩺 Medico
 
-### AI Text Simplification
+**AI Telemedicine Ecosystem**
 
-A Chrome extension that simplifies complex webpage content **in real time**.
+A unified platform for patients, doctors and pharmacies with AI-powered features.
 
-**What it does**
-
-🔍 Extracts webpage content
-🧠 Processes text with LLMs
-⚡ Simplifies complex language
-🗃️ Maintains user history
-
-**Built with**
-
-`React` `TypeScript` `FastAPI` `LangChain` `PostgreSQL`
+`AI` `Gemini` `Full-Stack`
 
 </td>
 
@@ -215,42 +75,25 @@ A Chrome extension that simplifies complex webpage content **in real time**.
 
 <td width="50%">
 
-## 🩺 Medico
+### 🌾 AgriAI
 
-### AI-Powered Telemedicine Ecosystem
+**Crop & Livestock Intelligence**
 
-A unified healthcare platform connecting:
+AI platform for plant disease detection, soil classification and livestock identification.
 
-👨‍⚕️ Doctors
-🧑‍💻 Patients
-💊 Pharmacies
-
-Featuring AI-powered functionality, multilingual support and real-time appointment scheduling.
-
-**Built with**
-
-`AI` `Gemini` `APIs` `Full-Stack`
+`Python` `Deep Learning` `Streamlit`
 
 </td>
 
 <td width="50%">
 
-## 🐾 Pawkits
+### 🐾 Pawkits
 
-### Smart Pet Collar
+**Smart Pet Collar**
 
-A connected smart-collar concept designed around **pet safety and monitoring**.
+A smart pet-care platform focused on pet safety, monitoring and digital experiences.
 
-**Focus**
-
-🐕 Pet safety
-📍 Monitoring
-📱 Digital pet care
-🎨 Product experience
-
-**Built around**
-
-`Product Design` `UI/UX` `Web` `IoT Concept`
+`React` `UI/UX` `Product Design`
 
 </td>
 
@@ -259,118 +102,13 @@ A connected smart-collar concept designed around **pet safety and monitoring**.
 
 ---
 
-# 🔬 Research Corner
+## 📊 GitHub
 
 <div align="center">
 
-### `Cross-Lingual POS Tagging for Low-Resource Indic Languages`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mariya0407&show_icons=true&hide_border=true&theme=transparent"/>
 
-</div>
-
-Applied **multilingual transformer-based transfer learning** for POS tagging in **Bhojpuri**, without task-specific annotated training data.
-
-<br>
-
-<table>
-<tr>
-<td align="center">
-
-### 🌐
-
-**Low-Resource NLP**
-
-</td>
-
-<td align="center">
-
-### 🧠
-
-**Transformer Models**
-
-</td>
-
-<td align="center">
-
-### 🇮🇳
-
-**Indic Languages**
-
-</td>
-
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariya0407&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariya0407&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariya0407&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 🌱 Currently Exploring
-
-<table>
-<tr>
-
-<td align="center">🧠<br><b>LLM Applications</b></td>
-<td align="center">🗣️<br><b>AI Voice Agents</b></td>
-<td align="center">🔗<br><b>RAG Systems</b></td>
-<td align="center">🤖<br><b>AI Agents</b></td>
-<td align="center">🌐<br><b>Multilingual NLP</b></td>
-
-</tr>
-</table>
-
----
-
-# 💭 My Developer Philosophy
-
-<div align="center">
-
-> ### **"Don't just build models. Build things people can use."**
-
-`Research` → `Experiment` → `Build` → `Test` → `Improve`
-
-</div>
-
----
-
-# 🤝 Let's Build Something
-
-I'm interested in:
-
-`AI Projects` · `Research` · `Startups` · `Internships` · `Open Source` · `Collaborations`
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/mariya0407">
-<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mariya-shaikh-29a04m/">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mariyashaikh0407@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-### ⭐ If something here interests you, let's connect!
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariya0407&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
@@ -378,6 +116,8 @@ I'm interested in:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer"/>
+### 💡 Build. Experiment. Learn. Repeat.
+
+<a href="https://github.com/mariya0407">Explore my repositories →</a>
 
 </div>
