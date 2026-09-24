@@ -1,173 +1,532 @@
-Hi, I'm Mariya Shaikh 👋
-AI & Data Science Undergraduate | AI/ML • LLMs • Full-Stack Development
+<div align="center">
 
-I'm an AI & Data Science undergraduate at VIIT, Pune, passionate about building practical AI systems that solve real-world problems.
+# 👋 Hey, I'm **Mariya Shaikh**
 
-I work across AI/ML, LLM applications, NLP, voice assistants, and full-stack development, with experience building everything from multilingual chatbots and AI assistants to data-driven applications and multi-tenant platforms.
+### `AI & Data Science` · `AI/ML` · `LLMs` · `Full-Stack`
 
-🚀 About Me
-🎓 B.Tech in Artificial Intelligence & Data Science at VIIT, Pune
-🤖 Interested in AI/ML, LLMs, NLP & intelligent applications
-💻 Building with Python, TypeScript, JavaScript, React, FastAPI & Django
-🧠 Experience with TensorFlow, PyTorch, scikit-learn, LangChain & Transformers
-🗣️ Built AI Voice Assistants & Booking Assistants for healthcare
-🌐 Worked on bilingual NLP applications for real-world users
-🔬 Researcher in Low-Resource Indic Language NLP
-🎨 Interested in UI/UX & human-centered technology
-📍 Pune, India
-🛠️ Tech Stack
-Languages
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI+that+solves+real+problems+%F0%9F%A4%96;Turning+ideas+into+working+products+%F0%9F%9A%80;Exploring+LLMs%2C+NLP+%26+Intelligent+Systems+%F0%9F%A7%A0;Designing+technology+people+actually+want+to+use+%F0%9F%8E%A8" />
 
+<br>
 
+<a href="https://github.com/mariya0407">
+<img src="https://img.shields.io/badge/GitHub-mariya0407-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/mariya-shaikh-29a04m/">
+<img src="https://img.shields.io/badge/LinkedIn-Mariya%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:mariyashaikh0407@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
+<br><br>
 
+<img src="https://komarev.com/ghpvc/?username=mariya0407&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
+</div>
 
+---
 
+<table>
+<tr>
+<td width="60%">
 
+## 🧠 Who Am I?
 
-AI / Machine Learning
+I'm an **AI & Data Science undergraduate at VIIT, Pune**, interested in building intelligent systems that move beyond experiments and actually solve problems.
 
+My work sits at the intersection of:
 
+**Artificial Intelligence × Software × Data × Design**
 
+I enjoy taking an idea from:
 
+`💡 Concept → 🧠 AI → 💻 Product → 🚀 Deployment`
 
+</td>
 
+<td width="40%">
 
+### ⚡ Quick Facts
 
+🎓 **VIIT Pune**
+B.Tech — AI & Data Science
 
-Development & Databases
+📊 **CGPA:** 8.6
 
+📍 **Pune, India**
 
+🔬 **Researcher**
 
+🤖 **AI Builder**
 
+🎨 **UI/UX Enthusiast**
 
+</td>
+</tr>
+</table>
 
+---
 
+# 🚀 What I Build
 
+<table>
+<tr>
 
+<td width="25%" align="center">
 
-Design & Analytics
+### 🤖
 
+### AI / ML
 
+Computer Vision
+NLP
+Deep Learning
+Transfer Learning
+LLMs
 
+</td>
 
+<td width="25%" align="center">
 
-💡 Featured Projects
-🌾 Autonomous Deep Learning for Integrated Crop & Livestock Management
+### 🧠
 
-A multi-diagnostic AI platform using transfer learning to analyze agricultural and livestock images.
+### GenAI
 
-Highlights
+RAG
+AI Agents
+Prompt Engineering
+Voice Assistants
+LLM Applications
+
+</td>
+
+<td width="25%" align="center">
+
+### 💻
+
+### Full-Stack
+
+React
+TypeScript
+FastAPI
+Django
+REST APIs
+
+</td>
+
+<td width="25%" align="center">
+
+### 🎨
+
+### Design
+
+UI/UX
+Figma
+Product Design
+Human-Centered AI
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ My Tech Universe
+
+### 👩🏻‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" />
+</p>
+
+### 🧠 AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### 🌐 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,django,nodejs" />
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github" />
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+---
+
+# 💎 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌾 AgriAI
+
+### Autonomous Deep Learning for Crop & Livestock Management
+
+A multi-diagnostic AI platform that analyzes agricultural and livestock images.
+
+**What it does**
 
 🌱 Plant disease detection
 🌍 Soil classification
 🐄 Livestock breed identification
-🧠 Transfer Learning with MobileNetV2
-📄 Automated PDF remedy reports
-🖥️ Streamlit-based interface
-✨ Simplr — AI Text Simplification Tool
+📄 Automated remedy reports
 
-An AI-powered Chrome extension that simplifies complex webpage content in real time.
+**Built with**
 
-Tech Stack: React • TypeScript • FastAPI • LangChain • PostgreSQL
+`MobileNetV2` `Transfer Learning` `Python` `Streamlit`
 
-Highlights
+</td>
 
-🔍 Real-time webpage text simplification
-🤖 LLM-powered processing
-⚡ FastAPI backend
-🧠 LangChain integration
-🗃️ PostgreSQL-based history management
-🩺 Medico Ecosystem
+<td width="50%">
 
-A unified AI-powered telemedicine ecosystem consisting of patient, doctor and pharmacy portals.
+## ✨ Simplr
 
-Highlights
+### AI Text Simplification
 
-👨‍⚕️ Doctor portal
-🧑‍💻 Patient portal
-💊 Pharmacy portal
-🤖 Gemini-powered AI features
-📅 Real-time appointment scheduling
-🌐 Multilingual support
-🐾 Pawkits — Smart Pet Collar
+A Chrome extension that simplifies complex webpage content **in real time**.
 
-A smart pet-care platform built around a connected collar concept for pet safety and monitoring.
+**What it does**
 
-Focus Areas
+🔍 Extracts webpage content
+🧠 Processes text with LLMs
+⚡ Simplifies complex language
+🗃️ Maintains user history
+
+**Built with**
+
+`React` `TypeScript` `FastAPI` `LangChain` `PostgreSQL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🩺 Medico
+
+### AI-Powered Telemedicine Ecosystem
+
+A unified healthcare platform connecting:
+
+👨‍⚕️ Doctors
+🧑‍💻 Patients
+💊 Pharmacies
+
+Featuring AI-powered functionality, multilingual support and real-time appointment scheduling.
+
+**Built with**
+
+`AI` `Gemini` `APIs` `Full-Stack`
+
+</td>
+
+<td width="50%">
+
+## 🐾 Pawkits
+
+### Smart Pet Collar
+
+A connected smart-collar concept designed around **pet safety and monitoring**.
+
+**Focus**
 
 🐕 Pet safety
 📍 Monitoring
-📱 Digital pet-care experience
-🎨 Product & UI/UX design
-💼 Experience
-AI Intern — Cyfosys
+📱 Digital pet care
+🎨 Product experience
 
-July 2026 – Present
+**Built around**
 
-Built AI voice Personal & Booking Assistants for doctors
-Worked with LLMs and APIs
-Integrated Google Calendar and Google Sheets
-Developed backend services for automated scheduling and task management
-AI/Full Stack Developer — Technokeens LLP
+`Product Design` `UI/UX` `Web` `IoT Concept`
 
-January 2026 – May 2026
+</td>
 
-Built Engagelabs.ai, a multi-agent AI marketing platform
-Implemented agents for strategy, content, advertisements and design
-Developed prompt middleware for injecting brand context
-Implemented provider failover across AI providers
-AI/Full Stack Developer — Eagle Security
+</tr>
+</table>
 
-December 2025 – April 2026
+---
 
-Developed a bilingual Hindi/English NLP chatbot
-Built Flutter interfaces with REST API integration
-Worked on Kamgar Sahayak, a labour welfare application
-Software Development Intern — VNG Technologies
+# 💼 Experience
 
-July 2025 – November 2025
+<table>
+<tr>
+<td>
 
-Developed a white-labeled multi-tenant LMS
-Implemented role-based access control and tenant isolation
-Built assessment question-bank functionality
-Worked across web and mobile interfaces
-🔬 Research
-Cross-Lingual POS Tagging for Low-Resource Indic Languages
+### 🤖 Cyfosys
 
-Research focused on applying multilingual transformer-based transfer learning for POS tagging in Bhojpuri without task-specific annotated training data.
+**AI Intern · July 2026 – Present**
 
-📄 Presented at ICRACE 2026
+Built AI-powered **Voice Personal & Booking Assistants for doctors**, working with LLMs, APIs, Google Calendar and Google Sheets.
 
-📚 Published in Cureus Journal, Springer Nature
+</td>
+</tr>
 
-🏆 Achievements
-🥈 2nd Place — Viz-a-Thon, VIT Pune
-🥈 2nd Place — Build-a-Thon, PCCoE Pune
-🥈 Runner-Up — UI/UX Designathon, IIT Roorkee
-🤖 Participated in the India AI Impact Buildathon 2026
-🎨 Core Design Team — Viz-a-thon 3.0
-📊 Event Coordinator — Data Science Symposium 2025
-📊 GitHub Stats
+<tr>
+<td>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariya0407&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariya0407&layout=compact&theme=transparent&hide_border=true" height="170"/> </p>
+### 🧠 Technokeens LLP
 
-🔥 What I'm Currently Exploring
-LLM Applications       ███████████████████░ 95%
-AI / Machine Learning  ██████████████████░░ 90%
-NLP                    █████████████████░░░ 85%
-Full-Stack Development ████████████████░░░░ 80%
-UI/UX                  ███████████████░░░░░ 75%
-🧠 Building practical LLM-powered applications
-🗣️ Exploring AI voice agents
-🌐 Developing intelligent full-stack products
-🔬 Exploring multilingual & low-resource NLP
-🎨 Designing better AI user experiences
-🤝 Let's Connect
+**AI / Full-Stack Developer · Jan 2026 – May 2026**
 
-<p align="left"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:mariyashaikh0407@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+Built **Engagelabs.ai**, a multi-agent AI marketing platform covering strategy, content, ads and design.
 
-I'm always interested in AI projects, research, internships, collaborations, and ideas that can turn into useful products.
+</td>
+</tr>
 
-<p align="center"> <i>Building intelligent systems, one idea at a time. 🚀</i> </p>
+<tr>
+<td>
+
+### 💻 Eagle Security
+
+**Full-Stack Developer Intern · Dec 2025 – Apr 2026**
+
+Worked on a bilingual **Hindi/English NLP chatbot** and the Flutter-based **Kamgar Sahayak** labour welfare application.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ⚙️ VNG Technologies
+
+**Software Development Intern · Jul 2025 – Nov 2025**
+
+Built a white-labelled **multi-tenant LMS** with RBAC, tenant isolation and assessment-management functionality.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔬 Research Corner
+
+<div align="center">
+
+### `Cross-Lingual POS Tagging for Low-Resource Indic Languages`
+
+</div>
+
+Applied **multilingual transformer-based transfer learning** for POS tagging in **Bhojpuri**, without task-specific annotated training data.
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🌐
+
+**Low-Resource NLP**
+
+</td>
+
+<td align="center">
+
+### 🧠
+
+**Transformer Models**
+
+</td>
+
+<td align="center">
+
+### 🇮🇳
+
+**Indic Languages**
+
+</td>
+
+<td align="center">
+
+### 📚
+
+**Published Research**
+
+</td>
+</tr>
+</table>
+
+**Presented at:** ICRACE 2026
+**Published in:** Cureus Journal, Springer Nature
+
+---
+
+# 🏆 A Few Things I've Done
+
+<table>
+<tr>
+<td align="center">
+
+🥈
+
+### 2nd Place
+
+Viz-a-Thon
+**VIT Pune**
+
+</td>
+
+<td align="center">
+
+🥈
+
+### 2nd Place
+
+Build-a-Thon
+**PCCoE Pune**
+
+</td>
+
+<td align="center">
+
+🥈
+
+### Runner-Up
+
+UI/UX Designathon
+**IIT Roorkee**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🤖
+
+### Participant
+
+India AI Impact
+**Buildathon 2026**
+
+</td>
+
+<td align="center">
+
+🎨
+
+### Core Design Team
+
+Viz-a-Thon
+**3.0**
+
+</td>
+
+<td align="center">
+
+📊
+
+### Event Coordinator
+
+Data Science
+**Symposium 2025**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariya0407&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariya0407&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariya0407&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<table>
+<tr>
+
+<td align="center">🧠<br><b>LLM Applications</b></td>
+<td align="center">🗣️<br><b>AI Voice Agents</b></td>
+<td align="center">🔗<br><b>RAG Systems</b></td>
+<td align="center">🤖<br><b>AI Agents</b></td>
+<td align="center">🌐<br><b>Multilingual NLP</b></td>
+
+</tr>
+</table>
+
+---
+
+# 💭 My Developer Philosophy
+
+<div align="center">
+
+> ### **"Don't just build models. Build things people can use."**
+
+`Research` → `Experiment` → `Build` → `Test` → `Improve`
+
+</div>
+
+---
+
+# 🤝 Let's Build Something
+
+I'm interested in:
+
+`AI Projects` · `Research` · `Startups` · `Internships` · `Open Source` · `Collaborations`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/mariya0407">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mariya-shaikh-29a04m/">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mariyashaikh0407@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⭐ If something here interests you, let's connect!
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer"/>
+
+</div>
